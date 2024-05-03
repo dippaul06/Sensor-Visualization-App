@@ -5,4 +5,4 @@ Dataset used: https://www.kaggle.com/datasets/anikannal/solar-power-generation-d
 
 Result:
 
-<img src="animation.gif" width="40" height="40" />
+<img src="animation.gif"/>
